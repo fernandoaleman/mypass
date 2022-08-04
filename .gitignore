@@ -1,2 +1,5 @@
 # PyCharm
 .idea/workspace.xml
+
+# For security, do not save password file
+data.txt
